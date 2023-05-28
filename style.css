@@ -1012,7 +1012,7 @@ ul{
     }
 
     #Logo{
-        margin-right: 105px;
+        margin-right: 100px;
     }
 
     #header-text{
@@ -1021,6 +1021,12 @@ ul{
 
     .header-list{
         width: none;
+    }
+
+    .header-list>ul{
+        display: flex;
+        justify-content: center;
+        padding: 0px;
     }
 
     .p-g-b{
