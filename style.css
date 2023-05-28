@@ -64,6 +64,7 @@ header{
     position: fixed;
     z-index: 100;
     background-color: #ffffff;
+    width: 100%;
     margin: 0px;
 }
 
@@ -79,11 +80,12 @@ header{
     -moz-box-shadow: 2px 12px 8px 0px #223c5033;
     box-shadow: 2px 12px 8px 0px #223c5033;
     height: 69px;
+    width: 100%;
     margin: 0px;
 }
 
 #Logo{
-    margin-right: 870px;
+    margin-right: 830px;
 }
 
 #header-text{
@@ -1010,7 +1012,7 @@ ul{
     }
 
     #Logo{
-        margin-right: 145px;
+        margin-right: 105px;
     }
 
     #header-text{
